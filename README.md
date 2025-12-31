@@ -170,17 +170,3 @@ REQUISITOS ATENDIDOS
 - Integração com API fornecida pelo Minimundos
 - Organização clara e funcional do projeto
 
-
-CONSIDERAÇÕES FINAIS
-
-Este projeto simula um fluxo real de desenvolvimento front-end, priorizando:
-- Boas práticas de consumo de API
-- Separação de responsabilidades
-- Clareza na experiência do usuário
-- Organização e legibilidade do código
-
-
-AUTOR
-
-Projeto desenvolvido como entrega acadêmica para o programa de trainees.
-# minimundo_movie
