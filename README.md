@@ -34,13 +34,14 @@ Back-end (API):
 ESTRUTURA DO PROJETO
 
 minimundos/
+
     api/
      movies/
          imdb_top_1000.csv
          index.js
          package.json
          README.md
-    
+
     src/
          App.jsx
          main.jsx
@@ -48,7 +49,7 @@ minimundos/
          App.css
     index.html
     package.json
-    README.txt
+    README.MD
 
 
 COMO EXECUTAR O PROJETO
